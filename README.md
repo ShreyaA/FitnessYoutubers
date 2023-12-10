@@ -53,7 +53,8 @@ Since all data requested from Youtube API is public data (which everyone on the 
 <h2> TLDR; </h2>
 
 * My suggestions to aspiring creators:
-    * Create <b> 5-15 minute videos (warm ups, stretches, ab workouts, etc.) for repeat viewership </b> and to help those who are strapped for time, and those who want to start/maintain their exercise streak.
+    * Create <b> 5-15 minute videos (warm ups, stretches, ab workouts, etc.) for repeat viewership </b> and to help those who either strapped for time or want to start/maintain 
+                      their exercise streak.
     * Post <b> shorts to increase reach and engagement </b>.
     * While shorter videos get more views per video, <b> established YouTubers have a more consistent audience that tune into their longer videos as well </b>. This would also boost your monetization - as YouTube can put more ads in longer videos.
     * Recommended themes: <b> motivational and transformation videos with body positive messaging </b> to inspire your viewers to start their own journey.
